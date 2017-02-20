@@ -60,3 +60,4 @@ libstrophe.project
 libs/
 obj/
 expat/
+build/
